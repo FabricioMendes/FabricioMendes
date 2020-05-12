@@ -2,7 +2,8 @@
 Fabricio Mendes
 12/05/2020
 */
-#include <stdio.h> // Include<stdio. h> is a statement which tells the compiler to insert the contents of stdio at that particular place. stdio. h is the header file for standard input and output.
+#include <stdio.h> /* Include<stdio. h> is a statement which tells the compiler to insert 
+the contents of stdio at that particular place. stdio. h is the header file for standard input and output.*/
 
 float n1, n2, media; // Declarate variables 
 int main(){ // Main Function
@@ -11,7 +12,7 @@ int main(){ // Main Function
 	printf("Digite a segunda nota: "); // show the mensage for user
 	scanf("%f",&n2); // save in local memory a float and name the variable n2
 	media = (n1 + n2) / 2; // result of expression media
-	printf("A media eh: %.2f", media); // save in local memory a float and name the variable n1
+	printf("A media eh: %.2f", media); // save in local memory a float and name the variable media
 		
 	if (media == 0){ // intial condition
 		printf(","" Aproveitamento F");	 // if condition is True save in local memory a float and name the variable n1
@@ -43,8 +44,8 @@ int main(){ // Main Function
 		}
 		else{ // else is condition that to do a test case the previous if is valse
 			
-	    	printf("mÈdia inv·lida"); // if condition is True save in local memory a float and name the variable n1		
-								}		
+	    	printf("m√©dia inv√°lida"); // if condition is True save in local memory a float and name the variable n1		
+							}		
 						    }
 						}
 					}
