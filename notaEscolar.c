@@ -39,7 +39,7 @@ int main(){ // Main Function
 		}
 		else{ // else is condition that to do a test case the previous if is valse
 			
-	    if (media >= 9){ // six condition
+	        if (media >= 9){ // six condition
 			printf(","" Aproveitamento A"); // if condition is True save in local memory a float and name the variable n1
 		}
 		else{ // else is condition that to do a test case the previous if is valse
