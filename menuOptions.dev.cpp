@@ -4,7 +4,7 @@
 */
 #include <stdio.h> // Include library
 
-int main(){
+int main(){ // main function
         
 	int winServer=0; // Declare int variables
         int unix=0;
