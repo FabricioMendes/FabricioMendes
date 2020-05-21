@@ -6,7 +6,7 @@
 
 int main(){
         
-		int winServer=0; // Declare int variables
+	int winServer=0; // Declare int variables
         int unix=0;
         int linux=0;
         int netware=0;
