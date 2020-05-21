@@ -18,7 +18,7 @@ int main(){
         float per_winServer, per_unix, per_linux,per_netware,per_macos,per_outro;
         voto=-1; // Declare floats variables
 					
-
+		//  while it's true to do
         while(voto!=0){
         	
                 printf("Survey, what's the best System Operational in your opinion:\n"); // Ask user
